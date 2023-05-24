@@ -53,10 +53,10 @@ global.packname = 'IMTIAZ'
 global.author = '@Imtiazali' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/CSvURWCI65B7LGxmHIoW0X'
-global.fgsc = 'https://github.com/hasadaliotho/HASAD_ALI' 
+global.fgsc = 'https://github.com/hasadaliotho/HASAD_BOT' 
 global.fgyt = 'https://youtube.com/@ImtiazAli-Sindhi'
 global.fgpyp = 'https://youtube.com/@ImtiazAli-Sindhi'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fglog = 'https://raw.githubusercontent.com/Guru/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
