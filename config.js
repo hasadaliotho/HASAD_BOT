@@ -59,7 +59,7 @@ global.fgpyp = 'https://youtube.com/@ImtiazAli-Sindhi'
 global.fglog = 'https://raw.githubusercontent.com/Guru/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Ｌｏａｄｉｎｇ ．．, Loading..., ███████] 99%,'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
